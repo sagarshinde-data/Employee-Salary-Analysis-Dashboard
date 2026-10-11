@@ -48,5 +48,4 @@ The dataset contains 100 employee records, including:
 - KPI creation
 - Interactive dashboard development
 
-## Author
-Sagar Shiinde
+
